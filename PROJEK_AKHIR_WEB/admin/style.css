@@ -1,0 +1,38 @@
+body{
+  background-image: url("hero-bg.jpg");
+
+    margin: auto;
+}
+
+table {
+    width: 75%;
+  }
+
+  h1{
+
+    text-align:center; 
+    color:white; 
+    font-weight:bold; 
+    background-color:#9932CC; 
+    border-radius: 8px; 
+    width:25%; 
+    margin:auto; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+.tengah{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#9932CC; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 20px;
+
+}
+label{
+  color: ghostwhite;
+}
